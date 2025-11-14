@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Wen Siu
+# [👋 Hey, I'm Wen Siu](https://winsomlow.github.io/)
 
 Code is my hobby, so I keep tinkering with 3D scenes, software architecture, and system design long after the workday ends. This page is a playful snapshot of the sandbox I return to whenever curiosity calls.
 
